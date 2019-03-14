@@ -8,7 +8,7 @@
 
 ## ​项目列表
 
-- [ExcelConverter](https://github.com/YouRockMyWorld/CSharp_Projects/tree/master/ExcelConverter)
+- [ExcelConverter](https://github.com/YouRockMyWorld/ExcelConverter)
 - [PythonJianGuanPingTaiCMDEntry](https://github.com/YouRockMyWorld/CSharp_Projects/tree/master/PythonJianGuanPingTaiCMDEntry)
 - [SetApplication](https://github.com/YouRockMyWorld/CSharp_Projects/tree/master/SetApplication)
 - [UnionFind](https://github.com/YouRockMyWorld/CSharp_Projects/tree/master/UnionFind)
