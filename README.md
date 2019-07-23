@@ -14,6 +14,8 @@
 - [UnionFind](https://github.com/YouRockMyWorld/CSharp_Projects/tree/master/UnionFind)
 - [WordApp](https://github.com/YouRockMyWorld/CSharp_Projects/tree/master/WordApp)
 - [WPFMyWorldPad](https://github.com/YouRockMyWorld/CSharp_Projects/tree/master/WPFMyWorldPad)
+- [CloudMusicCacheFile](https://github.com/YouRockMyWorld/CSharp_Projects/tree/master/CloudMusicCacheFile)
+- [RailTransitStandardTools](https://github.com/YouRockMyWorld/CSharp_Projects/tree/master/RailTransitStandardTools)
 
 
 
